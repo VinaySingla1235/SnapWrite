@@ -13,7 +13,7 @@ const HomePosts = () => {
             10 uses of artificial intelligence in day to day life
          </h1>
          <div className="flex mb-2 text-sm font-semibold text-gray-500 items-center justify-between md:mb-4">
-            <p>@snehasishdev</p>
+            <p>@vinaysingla</p>
             <div className="flex space-x-2">
                 <p>16/06/2023</p>
                 <p>16:45</p>

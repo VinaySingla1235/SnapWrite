@@ -22,7 +22,7 @@ const PostDetails = () => {
           </div>
         </div>
         <div className="flex items-center justify-between mt-2 md:mt-4">
-          <p>@sneshasisdev</p>
+        <p>@vinaysingla</p>
           <div className="flex space-x-2">
             <p>16/06/2023</p>
             <p>16:45</p>
